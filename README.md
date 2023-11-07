@@ -72,6 +72,10 @@ Define and maintain complex project configuration through code.
 - [cdk-dev/link-scraper](hhttps://github.com/aws-samples/cdk-serverless-lamp/blob/master/.projenrc.js) - Scrapes Links from sites used by cdk.dev website.
 - [construct-catalog/catalog/packages/catalog-search](https://github.com/construct-catalog/catalog/blob/master/packages/catalog-search/.projenrc.js) - Search application for the construct catalog.
 - [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen/blob/main/.projenrc.js) - This awesome list.
+- [Instance Scheduler on AWS](https://github.com/aws-solutions/instance-scheduler-on-aws) -  Instance Scheduler on AWS solution automates the starting and stopping of Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Relational Database Service (Amazon RDS) instances.
+- [AWS Adapter by Hashicorp for Terraform](https://github.com/hashicorp/cdktf-aws-cdk) - The AwsTerraformAdapter (included in the @cdktf/aws-cdk package) allows you to use Amazon Web Services Cloud Development Kit (AWS CDK) constructs in your CDK for Terraform (CDKTF) projects.
+- [AWS Project Development Kit](https://github.com/aws/aws-pdk) - The AWS PDK provides building blocks for common patterns together with development tools to manage and build your projects.
+
 
 ### NodeProject
 - [mmuller88/influxdb-s3-backup](https://github.com/mmuller88/influxdb-s3-backup) - A docker image based on InfluxDB and enhanced with awc cli + backupscripts which is runnable on arm64 (raspberries) as well.
