@@ -36,6 +36,7 @@ Define and maintain complex project configuration through code.
 - Matthew Bonig's [Blog](https://matthewbonig.com/2020/10/04/converting-to-projen/).
 - Ken Winner's [Blog](https://kennethwinner.com/2020/11/16/custom-projen-project-codeartifact/)
 - Philip M. Gollucci's [Blog](https://dev.to/aws-builders/projen-the-next-cdk-suprise-13b2)
+- Maciej Radzikowski's [Blog](https://betterdev.blog/building-cdk-construct-library/)
 
 ## Social Media
 
