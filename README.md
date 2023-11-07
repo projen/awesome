@@ -155,6 +155,7 @@ Define and maintain complex project configuration through code.
 
 ### AwsCdkConstructLibrary
 
+- [Click-up Projen Projects](https://github.com/time-loop/clickup-projen) - Further opiniated projen projects for CDK Construct Library, CDKApp, and Typescript Library
 - [EdwinRad/cdkfoldingathome](https://github.com/EdwinRad/cdkfoldingathome/blob/main/.projenrc.js) - Never forget to shut off expensive instances. With built-in TTL for your stack, you just define the lifetime of your instances and the stack will be destroyed afterwards.
 - [JordanSinko/the-slack-pipeline-approval](https://github.com/JordanSinko/the-slack-pipeline-approval/blob/master/.projenrc.js) - CDK pipelines with approvals.
 - [SnapPetal/cdk-cloudfront-deploy](https://github.com/SnapPetal/cdk-cloudfront-deploy/blob/main/.projenrc.js) - Simplify deploying a single-page website use CloudFront distributions.
