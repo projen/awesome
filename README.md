@@ -75,6 +75,7 @@ Define and maintain complex project configuration through code.
 - [Instance Scheduler on AWS](https://github.com/aws-solutions/instance-scheduler-on-aws) -  Instance Scheduler on AWS solution automates the starting and stopping of Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Relational Database Service (Amazon RDS) instances.
 - [AWS Adapter by Hashicorp for Terraform](https://github.com/hashicorp/cdktf-aws-cdk) - The AwsTerraformAdapter (included in the @cdktf/aws-cdk package) allows you to use Amazon Web Services Cloud Development Kit (AWS CDK) constructs in your CDK for Terraform (CDKTF) projects.
 - [AWS Project Development Kit](https://github.com/aws/aws-pdk) - The AWS PDK provides building blocks for common patterns together with development tools to manage and build your projects.
+- [Threat-composer](https://github.com/awslabs/threat-composer) - A simple threat modeling tool to help humans to reduce time-to-value when threat modeling
 
 
 ### NodeProject
@@ -213,6 +214,7 @@ Define and maintain complex project configuration through code.
 - [wheatstalk/cdk-ecs-website](https://github.com/wheatstalk/cdk-ecs-website/blob/master/.projenrc.js) - Construct creates an ECS service following a shared ALB pattern.
 - [hariohmprasath/scaled-test-execution](https://github.com/hariohmprasath/scaled-test-execution/blob/main/.projenrc.js) - Construct that creates scaling hub (scaled using fargate spot) with chrome and firefox nodes, that can help customers run integration and regression tests quicker and cheaper to improve the CI/CD process.
 - [hariohmprasath/ecs-event-driven-scaling](https://github.com/hariohmprasath/ecs-event-driven-scaling/blob/master/.projenrc.js) - Construct that creates an autoscaling SQS consumer (Fargate based) deployed in container-based ecosystem using ECS.
+- [Amazon Textract IDP CDK Constructs](https://github.com/aws-samples/amazon-textract-idp-cdk-constructs/tree/main) - This CDK Construct can be used as Step Function task and call Textract in Asynchonous mode for DetectText and AnalyzeDocument APIs.
 
 ### CdktfProviderProject
 
