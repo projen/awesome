@@ -77,6 +77,7 @@ Define and maintain complex project configuration through code.
 - [AWS Adapter by Hashicorp for Terraform](https://github.com/hashicorp/cdktf-aws-cdk) - The AwsTerraformAdapter (included in the @cdktf/aws-cdk package) allows you to use Amazon Web Services Cloud Development Kit (AWS CDK) constructs in your CDK for Terraform (CDKTF) projects.
 - [AWS Project Development Kit](https://github.com/aws/aws-pdk) - The AWS PDK provides building blocks for common patterns together with development tools to manage and build your projects.
 - [Threat-composer](https://github.com/awslabs/threat-composer) - A simple threat modeling tool to help humans to reduce time-to-value when threat modeling
+- [AWS Generative AI CDK Constructs](https://github.com/awslabs/generative-ai-cdk-constructs) - AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.
 
 
 ### NodeProject
