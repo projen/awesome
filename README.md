@@ -37,6 +37,7 @@ Define and maintain complex project configuration through code.
 - Ken Winner's [Blog](https://kennethwinner.com/2020/11/16/custom-projen-project-codeartifact/)
 - Philip M. Gollucci's [Blog](https://dev.to/aws-builders/projen-the-next-cdk-suprise-13b2)
 - Maciej Radzikowski's [Blog](https://betterdev.blog/building-cdk-construct-library/)
+- AWS | Getting Started with Projen and AWS CDK [Blog](https://aws.amazon.com/blogs/devops/getting-started-with-projen-and-aws-cdk/)
 
 ## Social Media
 
@@ -78,6 +79,7 @@ Define and maintain complex project configuration through code.
 - [AWS Project Development Kit](https://github.com/aws/aws-pdk) - The AWS PDK provides building blocks for common patterns together with development tools to manage and build your projects.
 - [Threat-composer](https://github.com/awslabs/threat-composer) - A simple threat modeling tool to help humans to reduce time-to-value when threat modeling
 - [AWS Generative AI CDK Constructs](https://github.com/awslabs/generative-ai-cdk-constructs) - AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.
+- [AWS genai conversational rag reference](https://github.com/aws-samples/aws-genai-conversational-rag-reference) - AWS Generative AI Conversational RAG Reference (Galileo)
 
 
 ### NodeProject
