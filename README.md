@@ -81,6 +81,7 @@ Define and maintain complex project configuration through code.
 - [Threat-composer](https://github.com/awslabs/threat-composer) - A simple threat modeling tool to help humans to reduce time-to-value when threat modeling
 - [AWS Generative AI CDK Constructs](https://github.com/awslabs/generative-ai-cdk-constructs) - AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.
 - [AWS genai conversational rag reference](https://github.com/aws-samples/aws-genai-conversational-rag-reference) - AWS Generative AI Conversational RAG Reference (Galileo)
+- [Data Solutions Framework on AWS](https://github.com/awslabs/data-solutions-framework-on-aws) - Accelerate building your data analytics solutions on AWS
 
 
 ### NodeProject
